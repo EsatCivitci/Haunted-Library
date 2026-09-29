@@ -1,5 +1,7 @@
 # 👻 Haunted Library
 
+https://github.com/user-attachments/assets/427e1806-8276-434b-836b-e4a049b7cf5d
+
 A real-time OpenGL application featuring a custom ghost model constructed from parametric Bézier surfaces, smooth per-vertex normal interpolation, dynamic Bézier curve trajectory generation ($C^1$ continuity), and quaternion-based orientation and roll dynamics[cite: 5].
 
 Developed for **CENG 469: Computer Graphics II** at METU[cite: 5].
@@ -28,8 +30,6 @@ Explore the full write-up, mathematical derivations, implementation challenges, 
 ---
 
 ##
-
-https://github.com/user-attachments/assets/427e1806-8276-434b-836b-e4a049b7cf5d
 
  How to Run
 
