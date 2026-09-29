@@ -1,0 +1,6 @@
+site_name: Haunted Library
+theme:
+  name: material
+
+nav:
+  - Home: blog.md
